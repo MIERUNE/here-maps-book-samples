@@ -1,0 +1,67 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>二回目の背景地図</title>
+        <meta
+            name="viewport"
+            content="initial-scale=1.0,
+        width=device-width"
+        />
+        <script
+            src="https://js.api.here.com/v3/3.1/mapsjs-core.js"
+            type="text/javascript"
+            charset="utf-8"
+        ></script>
+        <script
+            src="https://js.api.here.com/v3/3.1/mapsjs-service.js"
+            type="text/javascript"
+            charset="utf-8"
+        ></script>
+        <script
+            type="text/javascript"
+            src="https://js.api.here.com/v3/3.1/mapsjs-mapevents.js"
+        ></script>
+        <style>
+            body {
+                width: 100%;
+                height: 100%;
+                position: absolute;
+                margin: 0px;
+                padding: 0px;
+                overflow: hidden;
+            }
+            #search {
+                z-index: 99999;
+                position: absolute;
+                background-color: white;
+                display: flex;
+                flex-direction: column;
+            }
+            #map {
+                position: absolute;
+                top: 0;
+                bottom: 0;
+                width: 100%;
+                height: 100%;
+                z-index: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="map"></div>
+        <div id="search">
+            <p>住所検索</p>
+            <input type="text" id="geocoder" />
+            <button onclick="getGeocoder()">検索</button>
+            <p>施設検索</p>
+            <input type="text" id="landmark" />
+            <button onclick="landmarkGeocode()">検索</button>
+            <p>経路検索</p>
+            <input type="text" id="start" />
+            <input type="text" id="goal" />
+            <button onclick="getRouting()">検索</button>
+        </div>
+        <script src="maps.js"></script>
+    </body>
+</html>

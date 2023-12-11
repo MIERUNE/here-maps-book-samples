@@ -1,0 +1,5277 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.18829, 36.64392]
+            },
+            "properties": {
+                "stop_id": "n-00001_02",
+                "stop_name": "長野駅",
+                "route_ids": [
+                    "平林線_A",
+                    "牟礼線_A",
+                    "綿内屋島線_A",
+                    "運動公園線_A",
+                    "須坂屋島線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.18795, 36.64384]
+            },
+            "properties": {
+                "stop_id": "n-00001_03",
+                "stop_name": "長野駅",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "東長野病院線_A",
+                    "浅川西条線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.18688, 36.64401]
+            },
+            "properties": {
+                "stop_id": "n-00001_04",
+                "stop_name": "長野駅",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [138.189, 36.6425] },
+            "properties": {
+                "stop_id": "n-00002_01",
+                "stop_name": "長野駅東口",
+                "route_ids": ["日赤線_A", "綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.18646, 36.64489]
+            },
+            "properties": {
+                "stop_id": "n-00003_01",
+                "stop_name": "千石入口",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "平林線_A",
+                    "東長野病院線_A",
+                    "浅川西条線_A",
+                    "牟礼線_A",
+                    "綿内屋島線_A",
+                    "運動公園線_A",
+                    "須坂屋島線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [138.18665, 36.645] },
+            "properties": {
+                "stop_id": "n-00003_02",
+                "stop_name": "千石入口",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "平林線_A",
+                    "東長野病院線_A",
+                    "浅川西条線_A",
+                    "牟礼線_A",
+                    "綿内屋島線_A",
+                    "運動公園線_A",
+                    "須坂屋島線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.18676, 36.64623]
+            },
+            "properties": {
+                "stop_id": "n-00004_01",
+                "stop_name": "かるかや山前",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "平林線_A",
+                    "東長野病院線_A",
+                    "浅川西条線_A",
+                    "牟礼線_A",
+                    "綿内屋島線_A",
+                    "運動公園線_A",
+                    "須坂屋島線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.18712, 36.64736]
+            },
+            "properties": {
+                "stop_id": "n-00004_02",
+                "stop_name": "かるかや山前",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "平林線_A",
+                    "東長野病院線_A",
+                    "浅川西条線_A",
+                    "牟礼線_A",
+                    "綿内屋島線_A",
+                    "運動公園線_A",
+                    "須坂屋島線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [138.1879, 36.6495] },
+            "properties": {
+                "stop_id": "n-00005_01",
+                "stop_name": "昭和通り",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "平林線_A",
+                    "東長野病院線_A",
+                    "浅川西条線_A",
+                    "牟礼線_A",
+                    "綿内屋島線_A",
+                    "運動公園線_A",
+                    "須坂屋島線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.18799, 36.64929]
+            },
+            "properties": {
+                "stop_id": "n-00005_02",
+                "stop_name": "昭和通り",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "平林線_A",
+                    "東長野病院線_A",
+                    "浅川西条線_A",
+                    "牟礼線_A",
+                    "綿内屋島線_A",
+                    "運動公園線_A",
+                    "須坂屋島線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19154, 36.65005]
+            },
+            "properties": {
+                "stop_id": "n-00006_01",
+                "stop_name": "市役所入口",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "平林線_A",
+                    "東長野病院線_A",
+                    "浅川西条線_A",
+                    "牟礼線_A",
+                    "運動公園線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19191, 36.65014]
+            },
+            "properties": {
+                "stop_id": "n-00006_02",
+                "stop_name": "市役所入口",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "平林線_A",
+                    "東長野病院線_A",
+                    "浅川西条線_A",
+                    "牟礼線_A",
+                    "運動公園線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.1918, 36.65319]
+            },
+            "properties": {
+                "stop_id": "n-00007_01",
+                "stop_name": "権堂",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "平林線_A",
+                    "東長野病院線_A",
+                    "浅川西条線_A",
+                    "牟礼線_A",
+                    "運動公園線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.1921, 36.65312]
+            },
+            "properties": {
+                "stop_id": "n-00007_02",
+                "stop_name": "権堂",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "平林線_A",
+                    "東長野病院線_A",
+                    "浅川西条線_A",
+                    "牟礼線_A",
+                    "運動公園線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19574, 36.6544]
+            },
+            "properties": {
+                "stop_id": "n-00008_01",
+                "stop_name": "田町",
+                "route_ids": ["平林線_A", "運動公園線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19562, 36.65424]
+            },
+            "properties": {
+                "stop_id": "n-00008_02",
+                "stop_name": "田町",
+                "route_ids": ["平林線_A", "運動公園線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19746, 36.65432]
+            },
+            "properties": {
+                "stop_id": "n-00009_01",
+                "stop_name": "柳町中学",
+                "route_ids": ["平林線_A", "運動公園線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19811, 36.65412]
+            },
+            "properties": {
+                "stop_id": "n-00009_02",
+                "stop_name": "柳町中学",
+                "route_ids": ["平林線_A", "運動公園線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20114, 36.65411]
+            },
+            "properties": {
+                "stop_id": "n-00010_01",
+                "stop_name": "柳町団地",
+                "route_ids": ["平林線_A", "運動公園線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20064, 36.65398]
+            },
+            "properties": {
+                "stop_id": "n-00010_02",
+                "stop_name": "柳町団地",
+                "route_ids": ["平林線_A", "運動公園線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.2084, 36.65396]
+            },
+            "properties": {
+                "stop_id": "n-00011_01",
+                "stop_name": "荒屋",
+                "route_ids": ["平林線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20761, 36.65383]
+            },
+            "properties": {
+                "stop_id": "n-00011_02",
+                "stop_name": "荒屋",
+                "route_ids": ["平林線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21172, 36.65395]
+            },
+            "properties": {
+                "stop_id": "n-00012_01",
+                "stop_name": "平林",
+                "route_ids": ["平林線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.2112, 36.65377]
+            },
+            "properties": {
+                "stop_id": "n-00012_02",
+                "stop_name": "平林",
+                "route_ids": ["平林線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21745, 36.65412]
+            },
+            "properties": {
+                "stop_id": "n-00013_01",
+                "stop_name": "和田公園入口",
+                "route_ids": ["平林線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21749, 36.65398]
+            },
+            "properties": {
+                "stop_id": "n-00013_02",
+                "stop_name": "和田公園入口",
+                "route_ids": ["平林線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21878, 36.65418]
+            },
+            "properties": {
+                "stop_id": "n-00014_01",
+                "stop_name": "西和田",
+                "route_ids": ["平林線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [138.2202, 36.6541] },
+            "properties": {
+                "stop_id": "n-00014_02",
+                "stop_name": "西和田",
+                "route_ids": ["平林線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22286, 36.65435]
+            },
+            "properties": {
+                "stop_id": "i-15_01",
+                "stop_name": "中和田",
+                "route_ids": ["平林線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22305, 36.65422]
+            },
+            "properties": {
+                "stop_id": "i-15_02",
+                "stop_name": "中和田",
+                "route_ids": ["平林線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22661, 36.65452]
+            },
+            "properties": {
+                "stop_id": "i-16_01",
+                "stop_name": "東和田",
+                "route_ids": ["平林線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22635, 36.65434]
+            },
+            "properties": {
+                "stop_id": "i-16_02",
+                "stop_name": "東和田",
+                "route_ids": ["平林線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22968, 36.65469]
+            },
+            "properties": {
+                "stop_id": "i-17_01",
+                "stop_name": "東郵便局",
+                "route_ids": ["平林線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23073, 36.65461]
+            },
+            "properties": {
+                "stop_id": "i-17_02",
+                "stop_name": "東郵便局",
+                "route_ids": ["平林線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23634, 36.65511]
+            },
+            "properties": {
+                "stop_id": "i-18_01",
+                "stop_name": "尾張部神社前",
+                "route_ids": ["平林線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23538, 36.65489]
+            },
+            "properties": {
+                "stop_id": "i-18_02",
+                "stop_name": "尾張部神社前",
+                "route_ids": ["平林線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23905, 36.65534]
+            },
+            "properties": {
+                "stop_id": "i-19_01",
+                "stop_name": "北尾張部",
+                "route_ids": ["平林線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23942, 36.65523]
+            },
+            "properties": {
+                "stop_id": "i-19_02",
+                "stop_name": "北尾張部",
+                "route_ids": ["平林線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [138.2447, 36.6558] },
+            "properties": {
+                "stop_id": "i-20_01",
+                "stop_name": "富士通長野",
+                "route_ids": ["平林線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.24475, 36.65568]
+            },
+            "properties": {
+                "stop_id": "i-20_02",
+                "stop_name": "富士通長野",
+                "route_ids": ["平林線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.24838, 36.65673]
+            },
+            "properties": {
+                "stop_id": "i-21_01",
+                "stop_name": "千曲住宅地",
+                "route_ids": ["平林線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.24763, 36.65638]
+            },
+            "properties": {
+                "stop_id": "i-21_02",
+                "stop_name": "千曲住宅地",
+                "route_ids": ["平林線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.25215, 36.65798]
+            },
+            "properties": {
+                "stop_id": "i-22_01",
+                "stop_name": "小島",
+                "route_ids": ["平林線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.25165, 36.65758]
+            },
+            "properties": {
+                "stop_id": "i-22_02",
+                "stop_name": "小島",
+                "route_ids": ["平林線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.25662, 36.66042]
+            },
+            "properties": {
+                "stop_id": "i-23_01",
+                "stop_name": "柳原中央",
+                "route_ids": ["平林線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.25629, 36.66005]
+            },
+            "properties": {
+                "stop_id": "i-23_02",
+                "stop_name": "柳原中央",
+                "route_ids": ["平林線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.25712, 36.66279]
+            },
+            "properties": {
+                "stop_id": "i-24_01",
+                "stop_name": "柳原駅",
+                "route_ids": ["平林線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.25723, 36.66238]
+            },
+            "properties": {
+                "stop_id": "i-24_02",
+                "stop_name": "柳原駅",
+                "route_ids": ["平林線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.2577, 36.66929]
+            },
+            "properties": {
+                "stop_id": "i-25_01",
+                "stop_name": "東部保健センター",
+                "route_ids": ["平林線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.25495, 36.66943]
+            },
+            "properties": {
+                "stop_id": "i-26_01",
+                "stop_name": "市民病院",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "平林線_A",
+                    "浅川西条市民病院線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.26034, 36.67047]
+            },
+            "properties": {
+                "stop_id": "i-27_01",
+                "stop_name": "消防署",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "平林線_A",
+                    "浅川西条市民病院線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.26021, 36.67042]
+            },
+            "properties": {
+                "stop_id": "i-27_02",
+                "stop_name": "消防署",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才東長野病院線_A",
+                    "三才線_A",
+                    "平林線_A",
+                    "浅川西条市民病院線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.26472, 36.66821]
+            },
+            "properties": {
+                "stop_id": "i-28_01",
+                "stop_name": "柳原",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才東長野病院線_A",
+                    "三才線_A",
+                    "平林線_A",
+                    "浅川西条市民病院線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20385, 36.65449]
+            },
+            "properties": {
+                "stop_id": "i-29_01",
+                "stop_name": "柳町水道局",
+                "route_ids": ["運動公園線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20424, 36.65464]
+            },
+            "properties": {
+                "stop_id": "i-29_02",
+                "stop_name": "柳町水道局",
+                "route_ids": ["運動公園線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20573, 36.6557]
+            },
+            "properties": {
+                "stop_id": "i-30_01",
+                "stop_name": "ろう学校",
+                "route_ids": ["運動公園線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20562, 36.65552]
+            },
+            "properties": {
+                "stop_id": "i-30_02",
+                "stop_name": "ろう学校",
+                "route_ids": ["運動公園線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20795, 36.65712]
+            },
+            "properties": {
+                "stop_id": "i-31_01",
+                "stop_name": "中央警察署",
+                "route_ids": ["運動公園線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20778, 36.6569]
+            },
+            "properties": {
+                "stop_id": "i-31_02",
+                "stop_name": "中央警察署",
+                "route_ids": ["運動公園線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21082, 36.65897]
+            },
+            "properties": {
+                "stop_id": "i-32_01",
+                "stop_name": "返目",
+                "route_ids": ["運動公園線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20998, 36.65831]
+            },
+            "properties": {
+                "stop_id": "i-32_02",
+                "stop_name": "返目",
+                "route_ids": ["運動公園線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21292, 36.66034]
+            },
+            "properties": {
+                "stop_id": "i-33_01",
+                "stop_name": "工場前",
+                "route_ids": ["運動公園線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21288, 36.66021]
+            },
+            "properties": {
+                "stop_id": "i-33_02",
+                "stop_name": "工場前",
+                "route_ids": ["運動公園線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21581, 36.66225]
+            },
+            "properties": {
+                "stop_id": "i-34_01",
+                "stop_name": "桐原",
+                "route_ids": ["運動公園線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21589, 36.6622]
+            },
+            "properties": {
+                "stop_id": "i-34_02",
+                "stop_name": "桐原",
+                "route_ids": ["運動公園線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21891, 36.66415]
+            },
+            "properties": {
+                "stop_id": "i-35_01",
+                "stop_name": "東部中学",
+                "route_ids": ["運動公園線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21936, 36.66426]
+            },
+            "properties": {
+                "stop_id": "i-35_02",
+                "stop_name": "東部中学",
+                "route_ids": ["運動公園線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22237, 36.66574]
+            },
+            "properties": {
+                "stop_id": "i-36_01",
+                "stop_name": "北長野駅",
+                "route_ids": ["運動公園線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22156, 36.66516]
+            },
+            "properties": {
+                "stop_id": "i-36_02",
+                "stop_name": "北長野駅",
+                "route_ids": ["運動公園線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22801, 36.66616]
+            },
+            "properties": {
+                "stop_id": "i-37_01",
+                "stop_name": "辰巳隧道東",
+                "route_ids": ["運動公園線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22808, 36.66608]
+            },
+            "properties": {
+                "stop_id": "i-37_02",
+                "stop_name": "辰巳隧道東",
+                "route_ids": ["運動公園線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22994, 36.66594]
+            },
+            "properties": {
+                "stop_id": "i-38_01",
+                "stop_name": "吉田東町",
+                "route_ids": ["運動公園線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23033, 36.66301]
+            },
+            "properties": {
+                "stop_id": "i-39_01",
+                "stop_name": "太田北",
+                "route_ids": ["運動公園線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23022, 36.66301]
+            },
+            "properties": {
+                "stop_id": "i-39_02",
+                "stop_name": "太田北",
+                "route_ids": ["運動公園線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23018, 36.66071]
+            },
+            "properties": {
+                "stop_id": "i-40_01",
+                "stop_name": "太田",
+                "route_ids": ["運動公園線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23008, 36.66072]
+            },
+            "properties": {
+                "stop_id": "i-40_02",
+                "stop_name": "太田",
+                "route_ids": ["運動公園線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23208, 36.65973]
+            },
+            "properties": {
+                "stop_id": "i-41_01",
+                "stop_name": "運動公園",
+                "route_ids": ["運動公園線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23425, 36.65982]
+            },
+            "properties": {
+                "stop_id": "i-42_01",
+                "stop_name": "運動公園東",
+                "route_ids": ["運動公園線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19301, 36.65625]
+            },
+            "properties": {
+                "stop_id": "i-43_01",
+                "stop_name": "三輪田町",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "東長野病院線_A",
+                    "浅川西条線_A",
+                    "牟礼線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19327, 36.65652]
+            },
+            "properties": {
+                "stop_id": "i-43_02",
+                "stop_name": "三輪田町",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "東長野病院線_A",
+                    "浅川西条線_A",
+                    "牟礼線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19335, 36.65812]
+            },
+            "properties": {
+                "stop_id": "i-44_01",
+                "stop_name": "善光寺下駅前",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "東長野病院線_A",
+                    "浅川西条線_A",
+                    "牟礼線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19357, 36.65825]
+            },
+            "properties": {
+                "stop_id": "i-44_02",
+                "stop_name": "善光寺下駅前",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "東長野病院線_A",
+                    "浅川西条線_A",
+                    "牟礼線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19436, 36.66048]
+            },
+            "properties": {
+                "stop_id": "i-45_01",
+                "stop_name": "横山",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "東長野病院線_A",
+                    "浅川西条線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19457, 36.66096]
+            },
+            "properties": {
+                "stop_id": "i-45_02",
+                "stop_name": "横山",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "東長野病院線_A",
+                    "浅川西条線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.1945, 36.66209]
+            },
+            "properties": {
+                "stop_id": "i-46_01",
+                "stop_name": "城山公園入口",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "東長野病院線_A",
+                    "浅川西条線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19469, 36.6621]
+            },
+            "properties": {
+                "stop_id": "i-46_02",
+                "stop_name": "城山公園入口",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "東長野病院線_A",
+                    "浅川西条線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19569, 36.66494]
+            },
+            "properties": {
+                "stop_id": "i-47_01",
+                "stop_name": "動物園下",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "東長野病院線_A",
+                    "浅川西条線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19598, 36.66508]
+            },
+            "properties": {
+                "stop_id": "i-47_02",
+                "stop_name": "動物園下",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "東長野病院線_A",
+                    "浅川西条線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19671, 36.66655]
+            },
+            "properties": {
+                "stop_id": "i-48_01",
+                "stop_name": "城山団地",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "東長野病院線_A",
+                    "浅川西条線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19702, 36.66673]
+            },
+            "properties": {
+                "stop_id": "i-48_02",
+                "stop_name": "城山団地",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "東長野病院線_A",
+                    "浅川西条線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19796, 36.66917]
+            },
+            "properties": {
+                "stop_id": "i-49_01",
+                "stop_name": "長野高校",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "東長野病院線_A",
+                    "浅川西条線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19813, 36.66869]
+            },
+            "properties": {
+                "stop_id": "i-49_02",
+                "stop_name": "長野高校",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "東長野病院線_A",
+                    "浅川西条線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19789, 36.67022]
+            },
+            "properties": {
+                "stop_id": "i-50_01",
+                "stop_name": "上松五差路",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "東長野病院線_A",
+                    "浅川西条線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19811, 36.67056]
+            },
+            "properties": {
+                "stop_id": "i-50_02",
+                "stop_name": "上松五差路",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "東長野病院線_A",
+                    "浅川西条線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20165, 36.67084]
+            },
+            "properties": {
+                "stop_id": "i-51_01",
+                "stop_name": "上松東",
+                "route_ids": ["三才線_A", "東長野病院線_A", "浅川西条線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20067, 36.67078]
+            },
+            "properties": {
+                "stop_id": "i-51_02",
+                "stop_name": "上松東",
+                "route_ids": ["三才線_A", "東長野病院線_A", "浅川西条線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20307, 36.67075]
+            },
+            "properties": {
+                "stop_id": "i-52_01",
+                "stop_name": "下宇木",
+                "route_ids": [
+                    "三才線_A",
+                    "東長野病院線_A",
+                    "浅川西条線_A",
+                    "牟礼線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20339, 36.67063]
+            },
+            "properties": {
+                "stop_id": "i-52_02",
+                "stop_name": "下宇木",
+                "route_ids": ["三才線_A", "東長野病院線_A", "浅川西条線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20366, 36.66998]
+            },
+            "properties": {
+                "stop_id": "i-52_03",
+                "stop_name": "下宇木",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20376, 36.67001]
+            },
+            "properties": {
+                "stop_id": "i-52_04",
+                "stop_name": "下宇木",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20769, 36.67034]
+            },
+            "properties": {
+                "stop_id": "i-53_01",
+                "stop_name": "宇木",
+                "route_ids": [
+                    "三才線_A",
+                    "東長野病院線_A",
+                    "浅川西条線_A",
+                    "牟礼線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20703, 36.67024]
+            },
+            "properties": {
+                "stop_id": "i-53_02",
+                "stop_name": "宇木",
+                "route_ids": [
+                    "三才線_A",
+                    "東長野病院線_A",
+                    "浅川西条線_A",
+                    "牟礼線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20908, 36.6702]
+            },
+            "properties": {
+                "stop_id": "i-54_01",
+                "stop_name": "押鐘入口",
+                "route_ids": [
+                    "三才線_A",
+                    "東長野病院線_A",
+                    "浅川西条線_A",
+                    "牟礼線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20953, 36.67005]
+            },
+            "properties": {
+                "stop_id": "i-54_02",
+                "stop_name": "押鐘入口",
+                "route_ids": [
+                    "三才線_A",
+                    "東長野病院線_A",
+                    "浅川西条線_A",
+                    "牟礼線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21192, 36.6702]
+            },
+            "properties": {
+                "stop_id": "i-55_01",
+                "stop_name": "広町県住入口",
+                "route_ids": ["三才線_A", "浅川西条線_A", "牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21225, 36.66986]
+            },
+            "properties": {
+                "stop_id": "i-55_02",
+                "stop_name": "広町県住入口",
+                "route_ids": ["三才線_A", "東長野病院線_A", "牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21159, 36.66983]
+            },
+            "properties": {
+                "stop_id": "i-55_03",
+                "stop_name": "広町県住入口",
+                "route_ids": ["東長野病院線_A", "浅川西条線_A", "牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21168, 36.67295]
+            },
+            "properties": {
+                "stop_id": "i-56_01",
+                "stop_name": "広町県住",
+                "route_ids": ["浅川西条線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21177, 36.67331]
+            },
+            "properties": {
+                "stop_id": "i-56_02",
+                "stop_name": "広町県住",
+                "route_ids": ["浅川西条線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21294, 36.6728]
+            },
+            "properties": {
+                "stop_id": "i-57_01",
+                "stop_name": "広町",
+                "route_ids": ["浅川西条線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21438, 36.6736]
+            },
+            "properties": {
+                "stop_id": "i-58_01",
+                "stop_name": "山田橋",
+                "route_ids": ["浅川西条線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21436, 36.67322]
+            },
+            "properties": {
+                "stop_id": "i-58_02",
+                "stop_name": "山田橋",
+                "route_ids": ["浅川西条線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21408, 36.67631]
+            },
+            "properties": {
+                "stop_id": "i-59_01",
+                "stop_name": "若槻団地入口",
+                "route_ids": ["浅川西条線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21499, 36.67783]
+            },
+            "properties": {
+                "stop_id": "i-60_01",
+                "stop_name": "若槻団地南",
+                "route_ids": ["浅川西条線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21567, 36.67963]
+            },
+            "properties": {
+                "stop_id": "i-61_01",
+                "stop_name": "若槻団地中央",
+                "route_ids": ["浅川西条市民病院線_A", "浅川西条線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21574, 36.67959]
+            },
+            "properties": {
+                "stop_id": "i-61_02",
+                "stop_name": "若槻団地中央",
+                "route_ids": ["浅川西条市民病院線_A", "浅川西条線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21446, 36.68132]
+            },
+            "properties": {
+                "stop_id": "i-62_01",
+                "stop_name": "若槻団地西",
+                "route_ids": ["浅川西条市民病院線_A", "浅川西条線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21456, 36.68118]
+            },
+            "properties": {
+                "stop_id": "i-62_02",
+                "stop_name": "若槻団地西",
+                "route_ids": ["浅川西条市民病院線_A", "浅川西条線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21615, 36.68284]
+            },
+            "properties": {
+                "stop_id": "i-63_01",
+                "stop_name": "若槻団地上",
+                "route_ids": ["浅川西条市民病院線_A", "浅川西条線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.2180307, 36.6832163]
+            },
+            "properties": {
+                "stop_id": "i-64_01",
+                "stop_name": "若槻団地北",
+                "route_ids": ["浅川西条市民病院線_A", "浅川西条線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21811, 36.68522]
+            },
+            "properties": {
+                "stop_id": "i-65_01",
+                "stop_name": "浅川住宅地入口",
+                "route_ids": ["浅川西条市民病院線_A", "浅川西条線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21538, 36.68559]
+            },
+            "properties": {
+                "stop_id": "i-66_01",
+                "stop_name": "浅川住宅地",
+                "route_ids": ["浅川西条市民病院線_A", "浅川西条線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21544, 36.68565]
+            },
+            "properties": {
+                "stop_id": "i-66_02",
+                "stop_name": "浅川住宅地",
+                "route_ids": ["浅川西条市民病院線_A", "浅川西条線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21327, 36.6862]
+            },
+            "properties": {
+                "stop_id": "i-67_01",
+                "stop_name": "西条団地",
+                "route_ids": ["浅川西条市民病院線_A", "浅川西条線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21336, 36.68609]
+            },
+            "properties": {
+                "stop_id": "i-67_02",
+                "stop_name": "西条団地",
+                "route_ids": ["浅川西条市民病院線_A", "浅川西条線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21315, 36.68755]
+            },
+            "properties": {
+                "stop_id": "i-68_01",
+                "stop_name": "浅川西条",
+                "route_ids": ["浅川西条市民病院線_A", "浅川西条線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [138.217, 36.67826] },
+            "properties": {
+                "stop_id": "i-69_01",
+                "stop_name": "若槻団地",
+                "route_ids": ["浅川西条市民病院線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21386, 36.66971]
+            },
+            "properties": {
+                "stop_id": "i-70_01",
+                "stop_name": "吉田高校",
+                "route_ids": ["三才線_A", "東長野病院線_A", "牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21332, 36.66966]
+            },
+            "properties": {
+                "stop_id": "i-70_02",
+                "stop_name": "吉田高校",
+                "route_ids": ["三才線_A", "東長野病院線_A", "牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21587, 36.66997]
+            },
+            "properties": {
+                "stop_id": "i-71_01",
+                "stop_name": "本町",
+                "route_ids": ["東長野病院線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [138.216, 36.67003] },
+            "properties": {
+                "stop_id": "i-71_02",
+                "stop_name": "本町",
+                "route_ids": ["東長野病院線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21709, 36.67315]
+            },
+            "properties": {
+                "stop_id": "i-72_01",
+                "stop_name": "稲田大橋",
+                "route_ids": ["東長野病院線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21686, 36.67256]
+            },
+            "properties": {
+                "stop_id": "i-72_02",
+                "stop_name": "稲田大橋",
+                "route_ids": ["東長野病院線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21887, 36.67627]
+            },
+            "properties": {
+                "stop_id": "i-73_01",
+                "stop_name": "稲田",
+                "route_ids": ["東長野病院線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21834, 36.67508]
+            },
+            "properties": {
+                "stop_id": "i-73_02",
+                "stop_name": "稲田",
+                "route_ids": ["東長野病院線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22011, 36.67847]
+            },
+            "properties": {
+                "stop_id": "i-74_01",
+                "stop_name": "徳間西",
+                "route_ids": ["東長野病院線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21934, 36.67689]
+            },
+            "properties": {
+                "stop_id": "i-74_02",
+                "stop_name": "徳間西",
+                "route_ids": ["東長野病院線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.2204221, 36.67749331]
+            },
+            "properties": {
+                "stop_id": "i-74_03",
+                "stop_name": "徳間西",
+                "route_ids": ["東長野病院線_A", "浅川西条市民病院線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22095, 36.67993]
+            },
+            "properties": {
+                "stop_id": "i-75_01",
+                "stop_name": "徳間北",
+                "route_ids": ["東長野病院線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22074, 36.67934]
+            },
+            "properties": {
+                "stop_id": "i-75_02",
+                "stop_name": "徳間北",
+                "route_ids": ["東長野病院線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22227, 36.68449]
+            },
+            "properties": {
+                "stop_id": "i-76_01",
+                "stop_name": "東条中",
+                "route_ids": ["東長野病院線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22237, 36.68407]
+            },
+            "properties": {
+                "stop_id": "i-76_02",
+                "stop_name": "東条中",
+                "route_ids": ["東長野病院線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.2224, 36.68712]
+            },
+            "properties": {
+                "stop_id": "i-77_01",
+                "stop_name": "若槻小学校",
+                "route_ids": ["東長野病院線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22253, 36.68766]
+            },
+            "properties": {
+                "stop_id": "i-77_02",
+                "stop_name": "若槻小学校",
+                "route_ids": ["東長野病院線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22379, 36.69046]
+            },
+            "properties": {
+                "stop_id": "i-78_01",
+                "stop_name": "蚊里田神社前",
+                "route_ids": ["東長野病院線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22328, 36.68968]
+            },
+            "properties": {
+                "stop_id": "i-78_02",
+                "stop_name": "蚊里田神社前",
+                "route_ids": ["東長野病院線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22886, 36.69218]
+            },
+            "properties": {
+                "stop_id": "i-79_01",
+                "stop_name": "田中南",
+                "route_ids": ["東長野病院線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22838, 36.69241]
+            },
+            "properties": {
+                "stop_id": "i-79_02",
+                "stop_name": "田中南",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22792, 36.69205]
+            },
+            "properties": {
+                "stop_id": "i-79_03",
+                "stop_name": "田中南",
+                "route_ids": ["東長野病院線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23174, 36.68974]
+            },
+            "properties": {
+                "stop_id": "i-80_01",
+                "stop_name": "中央公園",
+                "route_ids": ["東長野病院線_A", "牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23165, 36.68967]
+            },
+            "properties": {
+                "stop_id": "i-80_02",
+                "stop_name": "中央公園",
+                "route_ids": ["東長野病院線_A", "牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23252, 36.68867]
+            },
+            "properties": {
+                "stop_id": "i-81_01",
+                "stop_name": "上野団地",
+                "route_ids": ["東長野病院線_A", "牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23241, 36.68866]
+            },
+            "properties": {
+                "stop_id": "i-81_02",
+                "stop_name": "上野団地",
+                "route_ids": ["東長野病院線_A", "牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23597, 36.68553]
+            },
+            "properties": {
+                "stop_id": "i-82_01",
+                "stop_name": "清泉大学・短大",
+                "route_ids": ["三才東長野病院線_A", "東長野病院線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23928, 36.68713]
+            },
+            "properties": {
+                "stop_id": "i-83_01",
+                "stop_name": "東長野病院",
+                "route_ids": ["三才東長野病院線_A", "東長野病院線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22203, 36.67779]
+            },
+            "properties": {
+                "stop_id": "i-84_01",
+                "stop_name": "徳間",
+                "route_ids": ["東長野病院線_A", "牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22343, 36.6801]
+            },
+            "properties": {
+                "stop_id": "i-85_01",
+                "stop_name": "若槻農協",
+                "route_ids": ["東長野病院線_A", "牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22457, 36.68206]
+            },
+            "properties": {
+                "stop_id": "i-86_01",
+                "stop_name": "東条",
+                "route_ids": ["東長野病院線_A", "牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [138.22834, 36.686] },
+            "properties": {
+                "stop_id": "i-87_01",
+                "stop_name": "若槻局前",
+                "route_ids": ["東長野病院線_A", "牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22779, 36.68595]
+            },
+            "properties": {
+                "stop_id": "i-87_02",
+                "stop_name": "若槻局前",
+                "route_ids": ["東長野病院線_A", "牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22966, 36.68592]
+            },
+            "properties": {
+                "stop_id": "i-88_01",
+                "stop_name": "上野大原",
+                "route_ids": ["東長野病院線_A", "牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23301, 36.68632]
+            },
+            "properties": {
+                "stop_id": "i-89_01",
+                "stop_name": "若槻台",
+                "route_ids": ["東長野病院線_A", "牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23267, 36.68585]
+            },
+            "properties": {
+                "stop_id": "i-89_02",
+                "stop_name": "若槻台",
+                "route_ids": ["東長野病院線_A", "牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23309, 36.68629]
+            },
+            "properties": {
+                "stop_id": "i-89_03",
+                "stop_name": "若槻台",
+                "route_ids": ["東長野病院線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19549, 36.6588]
+            },
+            "properties": {
+                "stop_id": "i-90_01",
+                "stop_name": "三輪六丁目",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19552, 36.65873]
+            },
+            "properties": {
+                "stop_id": "i-90_02",
+                "stop_name": "三輪六丁目",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19908, 36.65893]
+            },
+            "properties": {
+                "stop_id": "i-91_01",
+                "stop_name": "城東小学校",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19921, 36.65887]
+            },
+            "properties": {
+                "stop_id": "i-91_02",
+                "stop_name": "城東小学校",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20247, 36.65892]
+            },
+            "properties": {
+                "stop_id": "i-92_01",
+                "stop_name": "三輪",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20244, 36.65885]
+            },
+            "properties": {
+                "stop_id": "i-92_02",
+                "stop_name": "三輪",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20351, 36.66058]
+            },
+            "properties": {
+                "stop_id": "i-93_01",
+                "stop_name": "三輪公民館",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20359, 36.66022]
+            },
+            "properties": {
+                "stop_id": "i-93_02",
+                "stop_name": "三輪公民館",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20343, 36.66271]
+            },
+            "properties": {
+                "stop_id": "i-94_01",
+                "stop_name": "本郷駅",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20351, 36.66267]
+            },
+            "properties": {
+                "stop_id": "i-94_02",
+                "stop_name": "本郷駅",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20335, 36.66558]
+            },
+            "properties": {
+                "stop_id": "i-95_01",
+                "stop_name": "長野県立大学",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20344, 36.66519]
+            },
+            "properties": {
+                "stop_id": "i-95_02",
+                "stop_name": "長野県立大学",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20347, 36.66768]
+            },
+            "properties": {
+                "stop_id": "i-96_01",
+                "stop_name": "宇木団地",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20357, 36.6677]
+            },
+            "properties": {
+                "stop_id": "i-96_02",
+                "stop_name": "宇木団地",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22049, 36.67318]
+            },
+            "properties": {
+                "stop_id": "i-97_01",
+                "stop_name": "稲田上",
+                "route_ids": ["三才線_A", "牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22096, 36.67443]
+            },
+            "properties": {
+                "stop_id": "i-98_01",
+                "stop_name": "稲田宮前",
+                "route_ids": ["三才線_A", "牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22921, 36.69362]
+            },
+            "properties": {
+                "stop_id": "i-99_01",
+                "stop_name": "田中",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23293, 36.69721]
+            },
+            "properties": {
+                "stop_id": "i-100_01",
+                "stop_name": "田子上",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23393, 36.69891]
+            },
+            "properties": {
+                "stop_id": "i-101_01",
+                "stop_name": "田子",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.24013, 36.70301]
+            },
+            "properties": {
+                "stop_id": "i-102_01",
+                "stop_name": "吉村入口",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.24356, 36.70531]
+            },
+            "properties": {
+                "stop_id": "i-103_01",
+                "stop_name": "吉村",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.24476, 36.70758]
+            },
+            "properties": {
+                "stop_id": "i-104_01",
+                "stop_name": "吉村北",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.24911, 36.71272]
+            },
+            "properties": {
+                "stop_id": "i-105_01",
+                "stop_name": "宇佐美沢",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.24996, 36.7162]
+            },
+            "properties": {
+                "stop_id": "i-106_01",
+                "stop_name": "原池観音",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.25011, 36.72135]
+            },
+            "properties": {
+                "stop_id": "i-107_01",
+                "stop_name": "見晴",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.25171, 36.72596]
+            },
+            "properties": {
+                "stop_id": "i-108_01",
+                "stop_name": "平出公民館",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.25111, 36.72741]
+            },
+            "properties": {
+                "stop_id": "i-109_01",
+                "stop_name": "平出",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.25014, 36.72934]
+            },
+            "properties": {
+                "stop_id": "i-110_01",
+                "stop_name": "平出北",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.24944, 36.73153]
+            },
+            "properties": {
+                "stop_id": "i-111_01",
+                "stop_name": "番匠入口",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [138.248, 36.73774] },
+            "properties": {
+                "stop_id": "i-112_01",
+                "stop_name": "三本松",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.24813, 36.73777]
+            },
+            "properties": {
+                "stop_id": "i-112_02",
+                "stop_name": "三本松",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.24968, 36.73981]
+            },
+            "properties": {
+                "stop_id": "i-113_01",
+                "stop_name": "福井団地",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.25426, 36.74194]
+            },
+            "properties": {
+                "stop_id": "i-114_01",
+                "stop_name": "公社郵便局前",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.25377, 36.74436]
+            },
+            "properties": {
+                "stop_id": "i-115_01",
+                "stop_name": "福井団地中",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.25283, 36.74599]
+            },
+            "properties": {
+                "stop_id": "i-116_01",
+                "stop_name": "フォレストヒルズ入口",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.2468, 36.74978]
+            },
+            "properties": {
+                "stop_id": "i-117_01",
+                "stop_name": "福井下",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.24713, 36.75298]
+            },
+            "properties": {
+                "stop_id": "i-118_01",
+                "stop_name": "牟礼駅",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.24487, 36.7524]
+            },
+            "properties": {
+                "stop_id": "i-119_01",
+                "stop_name": "三河屋",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.24307, 36.75227]
+            },
+            "properties": {
+                "stop_id": "i-120_01",
+                "stop_name": "仲俣医院",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.24018, 36.75253]
+            },
+            "properties": {
+                "stop_id": "i-121_01",
+                "stop_name": "牟礼ガード下",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23598, 36.74852]
+            },
+            "properties": {
+                "stop_id": "i-122_01",
+                "stop_name": "飯綱病院",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23767, 36.75315]
+            },
+            "properties": {
+                "stop_id": "i-123_01",
+                "stop_name": "牟礼本町",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23572, 36.75443]
+            },
+            "properties": {
+                "stop_id": "i-124_01",
+                "stop_name": "飯綱町役場前",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.24331, 36.75412]
+            },
+            "properties": {
+                "stop_id": "i-125_01",
+                "stop_name": "飯綱営業所",
+                "route_ids": ["牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20212, 36.67601]
+            },
+            "properties": {
+                "stop_id": "i-126_01",
+                "stop_name": "湯谷小学校",
+                "route_ids": ["マユミダ三才線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20262, 36.67584]
+            },
+            "properties": {
+                "stop_id": "i-126_02",
+                "stop_name": "湯谷小学校",
+                "route_ids": ["マユミダ三才線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20604, 36.67592]
+            },
+            "properties": {
+                "stop_id": "i-127_01",
+                "stop_name": "三輪十丁目",
+                "route_ids": ["マユミダ三才線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [138.205, 36.67579] },
+            "properties": {
+                "stop_id": "i-127_02",
+                "stop_name": "三輪十丁目",
+                "route_ids": ["マユミダ三才線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20984, 36.67582]
+            },
+            "properties": {
+                "stop_id": "i-128_01",
+                "stop_name": "檀田",
+                "route_ids": ["マユミダ三才線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20991, 36.67566]
+            },
+            "properties": {
+                "stop_id": "i-128_02",
+                "stop_name": "檀田",
+                "route_ids": ["マユミダ三才線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21303, 36.67575]
+            },
+            "properties": {
+                "stop_id": "i-129_01",
+                "stop_name": "檀田東",
+                "route_ids": ["マユミダ三才線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21243, 36.6756]
+            },
+            "properties": {
+                "stop_id": "i-129_02",
+                "stop_name": "檀田東",
+                "route_ids": ["マユミダ三才線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21597, 36.67569]
+            },
+            "properties": {
+                "stop_id": "i-130_01",
+                "stop_name": "稲田一丁目",
+                "route_ids": ["マユミダ三才線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21611, 36.67554]
+            },
+            "properties": {
+                "stop_id": "i-130_02",
+                "stop_name": "稲田一丁目",
+                "route_ids": ["マユミダ三才線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22224, 36.67557]
+            },
+            "properties": {
+                "stop_id": "i-131_01",
+                "stop_name": "稲田北",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "浅川西条市民病院線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22267, 36.67544]
+            },
+            "properties": {
+                "stop_id": "i-131_02",
+                "stop_name": "稲田北",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "浅川西条市民病院線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.2256, 36.67553]
+            },
+            "properties": {
+                "stop_id": "i-132_01",
+                "stop_name": "新田川公園",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "浅川西条市民病院線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22483, 36.6754]
+            },
+            "properties": {
+                "stop_id": "i-132_02",
+                "stop_name": "新田川公園",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "浅川西条市民病院線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22913, 36.67545]
+            },
+            "properties": {
+                "stop_id": "i-133_01",
+                "stop_name": "徳間小学校",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "浅川西条市民病院線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.228634, 36.675315]
+            },
+            "properties": {
+                "stop_id": "i-133_02",
+                "stop_name": "徳間小学校",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "浅川西条市民病院線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23086, 36.67815]
+            },
+            "properties": {
+                "stop_id": "i-134_01",
+                "stop_name": "緑ヶ丘住宅地",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "浅川西条市民病院線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23101, 36.67824]
+            },
+            "properties": {
+                "stop_id": "i-134_02",
+                "stop_name": "緑ヶ丘住宅地",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "浅川西条市民病院線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23192, 36.67893]
+            },
+            "properties": {
+                "stop_id": "i-135_01",
+                "stop_name": "高専",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "浅川西条市民病院線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23303, 36.68047]
+            },
+            "properties": {
+                "stop_id": "i-136_01",
+                "stop_name": "市立高校",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "浅川西条市民病院線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23475, 36.6811]
+            },
+            "properties": {
+                "stop_id": "i-136_02",
+                "stop_name": "市立高校",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才東長野病院線_A",
+                    "三才線_A",
+                    "浅川西条市民病院線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23597, 36.68195]
+            },
+            "properties": {
+                "stop_id": "i-137_01",
+                "stop_name": "第二団地",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "浅川西条市民病院線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23631, 36.68205]
+            },
+            "properties": {
+                "stop_id": "i-137_02",
+                "stop_name": "第二団地",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才東長野病院線_A",
+                    "三才線_A",
+                    "浅川西条市民病院線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.2378, 36.68262]
+            },
+            "properties": {
+                "stop_id": "i-138_01",
+                "stop_name": "駒沢団地",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才東長野病院線_A",
+                    "三才線_A",
+                    "浅川西条市民病院線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.24082, 36.68419]
+            },
+            "properties": {
+                "stop_id": "i-139_01",
+                "stop_name": "三笠台住宅地",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才東長野病院線_A",
+                    "三才線_A",
+                    "浅川西条市民病院線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.24257, 36.68531]
+            },
+            "properties": {
+                "stop_id": "i-140_01",
+                "stop_name": "三才駅",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才東長野病院線_A",
+                    "三才線_A",
+                    "浅川西条市民病院線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.24192, 36.68493]
+            },
+            "properties": {
+                "stop_id": "i-140_02",
+                "stop_name": "三才駅",
+                "route_ids": ["マユミダ三才線_A", "三才線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.24285, 36.68592]
+            },
+            "properties": {
+                "stop_id": "i-140_03",
+                "stop_name": "三才駅",
+                "route_ids": ["マユミダ三才線_A", "三才線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.24441, 36.68434]
+            },
+            "properties": {
+                "stop_id": "i-141_01",
+                "stop_name": "三才",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才東長野病院線_A",
+                    "三才線_A",
+                    "浅川西条市民病院線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.24947, 36.68389]
+            },
+            "properties": {
+                "stop_id": "i-142_01",
+                "stop_name": "三才東",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才東長野病院線_A",
+                    "三才線_A",
+                    "浅川西条市民病院線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.25684, 36.68312]
+            },
+            "properties": {
+                "stop_id": "i-143_01",
+                "stop_name": "リハビリセンター",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "浅川西条市民病院線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.25684, 36.68308]
+            },
+            "properties": {
+                "stop_id": "i-143_02",
+                "stop_name": "リハビリセンター",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才東長野病院線_A",
+                    "三才線_A",
+                    "浅川西条市民病院線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.25841, 36.67551]
+            },
+            "properties": {
+                "stop_id": "i-144_01",
+                "stop_name": "東北中学",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才線_A",
+                    "浅川西条市民病院線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.25831, 36.67528]
+            },
+            "properties": {
+                "stop_id": "i-144_02",
+                "stop_name": "東北中学",
+                "route_ids": [
+                    "マユミダ三才線_A",
+                    "三才東長野病院線_A",
+                    "三才線_A",
+                    "浅川西条市民病院線_A"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19156, 36.64135]
+            },
+            "properties": {
+                "stop_id": "i-145_01",
+                "stop_name": "栗田中",
+                "route_ids": ["日赤線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.1913, 36.64079]
+            },
+            "properties": {
+                "stop_id": "i-145_02",
+                "stop_name": "栗田中",
+                "route_ids": ["日赤線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19128, 36.63639]
+            },
+            "properties": {
+                "stop_id": "i-146_01",
+                "stop_name": "文化会館入口",
+                "route_ids": ["日赤線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19112, 36.63585]
+            },
+            "properties": {
+                "stop_id": "i-146_02",
+                "stop_name": "文化会館入口",
+                "route_ids": ["日赤線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19113, 36.63312]
+            },
+            "properties": {
+                "stop_id": "i-147_01",
+                "stop_name": "北市",
+                "route_ids": ["日赤線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19101, 36.6335]
+            },
+            "properties": {
+                "stop_id": "i-147_02",
+                "stop_name": "北市",
+                "route_ids": ["日赤線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19104, 36.63127]
+            },
+            "properties": {
+                "stop_id": "i-148_01",
+                "stop_name": "信大工学部",
+                "route_ids": ["日赤線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19092, 36.63114]
+            },
+            "properties": {
+                "stop_id": "i-148_02",
+                "stop_name": "信大工学部",
+                "route_ids": ["日赤線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19097, 36.62939]
+            },
+            "properties": {
+                "stop_id": "i-149_01",
+                "stop_name": "若里",
+                "route_ids": ["日赤線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19083, 36.62936]
+            },
+            "properties": {
+                "stop_id": "i-149_02",
+                "stop_name": "若里",
+                "route_ids": ["日赤線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19091, 36.6278]
+            },
+            "properties": {
+                "stop_id": "i-150_01",
+                "stop_name": "日赤",
+                "route_ids": ["日赤線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19317, 36.62723]
+            },
+            "properties": {
+                "stop_id": "i-151_01",
+                "stop_name": "若里多目的広場",
+                "route_ids": ["日赤線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19315, 36.62713]
+            },
+            "properties": {
+                "stop_id": "i-151_02",
+                "stop_name": "若里多目的広場",
+                "route_ids": ["日赤線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.1937, 36.62783]
+            },
+            "properties": {
+                "stop_id": "i-152_01",
+                "stop_name": "水野美術館",
+                "route_ids": ["日赤線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19471, 36.62457]
+            },
+            "properties": {
+                "stop_id": "i-153_01",
+                "stop_name": "アークス前",
+                "route_ids": ["日赤線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.1991, 36.62391]
+            },
+            "properties": {
+                "stop_id": "i-154_01",
+                "stop_name": "アークス東",
+                "route_ids": ["日赤線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19718, 36.62447]
+            },
+            "properties": {
+                "stop_id": "i-155_01",
+                "stop_name": "アークス中央",
+                "route_ids": ["日赤線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19585, 36.62903]
+            },
+            "properties": {
+                "stop_id": "i-156_01",
+                "stop_name": "ビッグハット",
+                "route_ids": ["日赤線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19119, 36.64786]
+            },
+            "properties": {
+                "stop_id": "i-157_01",
+                "stop_name": "南千歳町",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19095, 36.64806]
+            },
+            "properties": {
+                "stop_id": "i-157_02",
+                "stop_name": "南千歳町",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19258, 36.64394]
+            },
+            "properties": {
+                "stop_id": "i-158_01",
+                "stop_name": "七瀬西",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19209, 36.6439]
+            },
+            "properties": {
+                "stop_id": "i-158_02",
+                "stop_name": "七瀬西",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19224, 36.64193]
+            },
+            "properties": {
+                "stop_id": "i-159_01",
+                "stop_name": "ABN前",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19259, 36.64175]
+            },
+            "properties": {
+                "stop_id": "i-159_02",
+                "stop_name": "ABN前",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19512, 36.64207]
+            },
+            "properties": {
+                "stop_id": "i-160_01",
+                "stop_name": "栗田",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19506, 36.64186]
+            },
+            "properties": {
+                "stop_id": "i-160_02",
+                "stop_name": "栗田",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20076, 36.64245]
+            },
+            "properties": {
+                "stop_id": "i-161_01",
+                "stop_name": "鶴賀七瀬",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20088, 36.64232]
+            },
+            "properties": {
+                "stop_id": "i-161_02",
+                "stop_name": "鶴賀七瀬",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20395, 36.64259]
+            },
+            "properties": {
+                "stop_id": "i-162_01",
+                "stop_name": "桜ヶ岡中学前",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20394, 36.64244]
+            },
+            "properties": {
+                "stop_id": "i-162_02",
+                "stop_name": "桜ヶ岡中学前",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20651, 36.64248]
+            },
+            "properties": {
+                "stop_id": "i-163_01",
+                "stop_name": "上高田",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20655, 36.64233]
+            },
+            "properties": {
+                "stop_id": "i-163_02",
+                "stop_name": "上高田",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21054, 36.64211]
+            },
+            "properties": {
+                "stop_id": "i-164_01",
+                "stop_name": "高田寺村",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.2106, 36.64195]
+            },
+            "properties": {
+                "stop_id": "i-164_02",
+                "stop_name": "高田寺村",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21608, 36.64199]
+            },
+            "properties": {
+                "stop_id": "i-165_01",
+                "stop_name": "高田",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21595, 36.6418]
+            },
+            "properties": {
+                "stop_id": "i-165_02",
+                "stop_name": "高田",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21971, 36.64246]
+            },
+            "properties": {
+                "stop_id": "i-166_01",
+                "stop_name": "南高田",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21973, 36.64231]
+            },
+            "properties": {
+                "stop_id": "i-166_02",
+                "stop_name": "南高田",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.2222, 36.64273]
+            },
+            "properties": {
+                "stop_id": "i-167_01",
+                "stop_name": "緑ヶ丘小学校口",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22169, 36.64253]
+            },
+            "properties": {
+                "stop_id": "i-167_02",
+                "stop_name": "緑ヶ丘小学校口",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22758, 36.64268]
+            },
+            "properties": {
+                "stop_id": "i-168_01",
+                "stop_name": "南長池",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22756, 36.64252]
+            },
+            "properties": {
+                "stop_id": "i-168_02",
+                "stop_name": "南長池",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23106, 36.64279]
+            },
+            "properties": {
+                "stop_id": "i-169_01",
+                "stop_name": "南長池下",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23126, 36.6426]
+            },
+            "properties": {
+                "stop_id": "i-169_02",
+                "stop_name": "南長池下",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.2354, 36.64244]
+            },
+            "properties": {
+                "stop_id": "i-170_01",
+                "stop_name": "南長池東",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23572, 36.64225]
+            },
+            "properties": {
+                "stop_id": "i-170_02",
+                "stop_name": "南長池東",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [138.238, 36.64232] },
+            "properties": {
+                "stop_id": "i-171_01",
+                "stop_name": "エムウェーブ前",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23826, 36.64214]
+            },
+            "properties": {
+                "stop_id": "i-171_02",
+                "stop_name": "エムウェーブ前",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.24475, 36.64207]
+            },
+            "properties": {
+                "stop_id": "i-172_01",
+                "stop_name": "長野東高校",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.24478, 36.64186]
+            },
+            "properties": {
+                "stop_id": "i-172_02",
+                "stop_name": "長野東高校",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.2488, 36.64192]
+            },
+            "properties": {
+                "stop_id": "i-173_01",
+                "stop_name": "屋島",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.24909, 36.64168]
+            },
+            "properties": {
+                "stop_id": "i-173_02",
+                "stop_name": "屋島",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.25167, 36.6418]
+            },
+            "properties": {
+                "stop_id": "i-174_01",
+                "stop_name": "南屋島",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.25154, 36.64153]
+            },
+            "properties": {
+                "stop_id": "i-174_02",
+                "stop_name": "南屋島",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.26367, 36.63954]
+            },
+            "properties": {
+                "stop_id": "i-175_01",
+                "stop_name": "福島南",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.2636, 36.63912]
+            },
+            "properties": {
+                "stop_id": "i-175_02",
+                "stop_name": "福島南",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [138.26612, 36.639] },
+            "properties": {
+                "stop_id": "i-176_01",
+                "stop_name": "牛池入口",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.26698, 36.6386]
+            },
+            "properties": {
+                "stop_id": "i-176_02",
+                "stop_name": "牛池入口",
+                "route_ids": ["綿内屋島線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.28168, 36.63689]
+            },
+            "properties": {
+                "stop_id": "i-177_01",
+                "stop_name": "幸高",
+                "route_ids": ["屋代須坂線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.28177, 36.63673]
+            },
+            "properties": {
+                "stop_id": "i-177_02",
+                "stop_name": "幸高",
+                "route_ids": ["屋代須坂線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.2885, 36.63684]
+            },
+            "properties": {
+                "stop_id": "i-178_01",
+                "stop_name": "井上町東",
+                "route_ids": ["須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.28846, 36.63674]
+            },
+            "properties": {
+                "stop_id": "i-178_02",
+                "stop_name": "井上町東",
+                "route_ids": ["須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.29562, 36.6404]
+            },
+            "properties": {
+                "stop_id": "i-179_01",
+                "stop_name": "米持町東",
+                "route_ids": ["須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.29551, 36.64022]
+            },
+            "properties": {
+                "stop_id": "i-179_02",
+                "stop_name": "米持町東",
+                "route_ids": ["須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.29978, 36.64541]
+            },
+            "properties": {
+                "stop_id": "i-180_01",
+                "stop_name": "八幡町南",
+                "route_ids": ["須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.29998, 36.64558]
+            },
+            "properties": {
+                "stop_id": "i-180_02",
+                "stop_name": "八幡町南",
+                "route_ids": ["須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.30114, 36.64672]
+            },
+            "properties": {
+                "stop_id": "i-181_01",
+                "stop_name": "屋部下",
+                "route_ids": ["須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [138.304, 36.64553] },
+            "properties": {
+                "stop_id": "i-182_01",
+                "stop_name": "メセナホール",
+                "route_ids": ["須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.30606, 36.64741]
+            },
+            "properties": {
+                "stop_id": "i-183_01",
+                "stop_name": "屋部",
+                "route_ids": ["須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.30755, 36.64964]
+            },
+            "properties": {
+                "stop_id": "i-184_01",
+                "stop_name": "須坂高校前",
+                "route_ids": ["須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.31009, 36.65378]
+            },
+            "properties": {
+                "stop_id": "i-185_01",
+                "stop_name": "信州医療センター",
+                "route_ids": ["屋代須坂線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.31008, 36.65441]
+            },
+            "properties": {
+                "stop_id": "i-186_01",
+                "stop_name": "信州医療センター入口",
+                "route_ids": ["屋代須坂線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.31021, 36.65431]
+            },
+            "properties": {
+                "stop_id": "i-186_02",
+                "stop_name": "信州医療センター入口",
+                "route_ids": ["屋代須坂線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.30764, 36.6558]
+            },
+            "properties": {
+                "stop_id": "i-187_01",
+                "stop_name": "末広町",
+                "route_ids": ["屋代須坂線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.30749, 36.6557]
+            },
+            "properties": {
+                "stop_id": "i-187_02",
+                "stop_name": "末広町",
+                "route_ids": ["屋代須坂線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.30458, 36.6566]
+            },
+            "properties": {
+                "stop_id": "i-188_01",
+                "stop_name": "須坂駅",
+                "route_ids": ["屋代須坂線_A", "須坂屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.2727, 36.63575]
+            },
+            "properties": {
+                "stop_id": "i-189_01",
+                "stop_name": "須坂長野東IC",
+                "route_ids": ["屋代須坂線_A", "綿内屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.2726, 36.63509]
+            },
+            "properties": {
+                "stop_id": "i-189_02",
+                "stop_name": "須坂長野東IC",
+                "route_ids": ["屋代須坂線_A", "綿内屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.27501, 36.62727]
+            },
+            "properties": {
+                "stop_id": "i-190_01",
+                "stop_name": "湯～ぱれあ",
+                "route_ids": ["綿内屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.27492, 36.62724]
+            },
+            "properties": {
+                "stop_id": "i-190_02",
+                "stop_name": "湯～ぱれあ",
+                "route_ids": ["綿内屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.27413, 36.6214]
+            },
+            "properties": {
+                "stop_id": "i-191_01",
+                "stop_name": "清水",
+                "route_ids": ["綿内屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.2693, 36.62192]
+            },
+            "properties": {
+                "stop_id": "i-192_01",
+                "stop_name": "森",
+                "route_ids": ["綿内屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.26991, 36.62192]
+            },
+            "properties": {
+                "stop_id": "i-192_02",
+                "stop_name": "森",
+                "route_ids": ["綿内屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.26338, 36.62263]
+            },
+            "properties": {
+                "stop_id": "i-193_01",
+                "stop_name": "綿内小学校",
+                "route_ids": ["綿内屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.25926, 36.62493]
+            },
+            "properties": {
+                "stop_id": "i-194_01",
+                "stop_name": "綿内駅",
+                "route_ids": ["屋代須坂線_A", "綿内屋島線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.30591, 36.65167]
+            },
+            "properties": {
+                "stop_id": "i-195_01",
+                "stop_name": "市役所西",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.2994, 36.64737]
+            },
+            "properties": {
+                "stop_id": "i-196_01",
+                "stop_name": "八幡",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.29927, 36.64734]
+            },
+            "properties": {
+                "stop_id": "i-196_02",
+                "stop_name": "八幡",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.29648, 36.64847]
+            },
+            "properties": {
+                "stop_id": "i-197_01",
+                "stop_name": "境沢",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.29644, 36.64839]
+            },
+            "properties": {
+                "stop_id": "i-197_02",
+                "stop_name": "境沢",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.29367, 36.64623]
+            },
+            "properties": {
+                "stop_id": "i-198_01",
+                "stop_name": "自動車学校",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.29381, 36.64622]
+            },
+            "properties": {
+                "stop_id": "i-198_02",
+                "stop_name": "自動車学校",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.29008, 36.64348]
+            },
+            "properties": {
+                "stop_id": "i-199_01",
+                "stop_name": "米持",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.29016, 36.64344]
+            },
+            "properties": {
+                "stop_id": "i-199_02",
+                "stop_name": "米持",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.28694, 36.6405]
+            },
+            "properties": {
+                "stop_id": "i-200_01",
+                "stop_name": "井上小学校",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.28721, 36.64068]
+            },
+            "properties": {
+                "stop_id": "i-200_02",
+                "stop_name": "井上小学校",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.28603, 36.63933]
+            },
+            "properties": {
+                "stop_id": "i-201_01",
+                "stop_name": "井上",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.28573, 36.6387]
+            },
+            "properties": {
+                "stop_id": "i-201_02",
+                "stop_name": "井上",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [138.266, 36.63179] },
+            "properties": {
+                "stop_id": "i-202_01",
+                "stop_name": "牛池交差点",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.26648, 36.63182]
+            },
+            "properties": {
+                "stop_id": "i-202_02",
+                "stop_name": "牛池交差点",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.25309, 36.61827]
+            },
+            "properties": {
+                "stop_id": "i-203_01",
+                "stop_name": "北野美術館",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.25319, 36.61828]
+            },
+            "properties": {
+                "stop_id": "i-203_02",
+                "stop_name": "北野美術館",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.25235, 36.61102]
+            },
+            "properties": {
+                "stop_id": "i-204_01",
+                "stop_name": "若穂病院",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.24299, 36.60864]
+            },
+            "properties": {
+                "stop_id": "i-205_01",
+                "stop_name": "領家",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.24292, 36.60857]
+            },
+            "properties": {
+                "stop_id": "i-205_02",
+                "stop_name": "領家",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23848, 36.60566]
+            },
+            "properties": {
+                "stop_id": "i-206_01",
+                "stop_name": "川田駅",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23267, 36.60594]
+            },
+            "properties": {
+                "stop_id": "i-207_01",
+                "stop_name": "町川田工業団地",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.23267, 36.60588]
+            },
+            "properties": {
+                "stop_id": "i-207_02",
+                "stop_name": "町川田工業団地",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22343, 36.6011]
+            },
+            "properties": {
+                "stop_id": "i-208_01",
+                "stop_name": "大室駅",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.22332, 36.6009]
+            },
+            "properties": {
+                "stop_id": "i-208_02",
+                "stop_name": "大室駅",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21797, 36.59713]
+            },
+            "properties": {
+                "stop_id": "i-209_01",
+                "stop_name": "大室団地",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21806, 36.59681]
+            },
+            "properties": {
+                "stop_id": "i-209_02",
+                "stop_name": "大室団地",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21527, 36.59446]
+            },
+            "properties": {
+                "stop_id": "i-210_01",
+                "stop_name": "寺尾森林組合",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20737, 36.59279]
+            },
+            "properties": {
+                "stop_id": "i-211_01",
+                "stop_name": "小島田",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20782, 36.59279]
+            },
+            "properties": {
+                "stop_id": "i-211_02",
+                "stop_name": "小島田",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20109, 36.59193]
+            },
+            "properties": {
+                "stop_id": "i-212_01",
+                "stop_name": "金井山",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20133, 36.59188]
+            },
+            "properties": {
+                "stop_id": "i-212_02",
+                "stop_name": "金井山",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19835, 36.58899]
+            },
+            "properties": {
+                "stop_id": "i-213_01",
+                "stop_name": "柴",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19849, 36.58906]
+            },
+            "properties": {
+                "stop_id": "i-213_02",
+                "stop_name": "柴",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19928, 36.58547]
+            },
+            "properties": {
+                "stop_id": "i-214_01",
+                "stop_name": "柴南",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19941, 36.58545]
+            },
+            "properties": {
+                "stop_id": "i-214_02",
+                "stop_name": "柴南",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20446, 36.57515]
+            },
+            "properties": {
+                "stop_id": "i-215_01",
+                "stop_name": "東寺尾北",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20449, 36.57217]
+            },
+            "properties": {
+                "stop_id": "i-216_01",
+                "stop_name": "東寺尾",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20485, 36.56998]
+            },
+            "properties": {
+                "stop_id": "i-217_01",
+                "stop_name": "松代温泉入口",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20225, 36.56867]
+            },
+            "properties": {
+                "stop_id": "i-218_01",
+                "stop_name": "荒神町",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20231, 36.56864]
+            },
+            "properties": {
+                "stop_id": "i-218_02",
+                "stop_name": "荒神町",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20088, 36.5664]
+            },
+            "properties": {
+                "stop_id": "i-219_01",
+                "stop_name": "松代中町",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20119, 36.56638]
+            },
+            "properties": {
+                "stop_id": "i-219_02",
+                "stop_name": "松代中町",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19868, 36.56604]
+            },
+            "properties": {
+                "stop_id": "i-220_01",
+                "stop_name": "松代駅",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [138.1999, 36.564] },
+            "properties": {
+                "stop_id": "i-221_01",
+                "stop_name": "長野松代総合病院",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19996, 36.56407]
+            },
+            "properties": {
+                "stop_id": "i-221_02",
+                "stop_name": "長野松代総合病院",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.20704, 36.55321]
+            },
+            "properties": {
+                "stop_id": "i-222_01",
+                "stop_name": "松代高校",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19739, 36.56159]
+            },
+            "properties": {
+                "stop_id": "i-223_01",
+                "stop_name": "紺屋町",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19522, 36.56148]
+            },
+            "properties": {
+                "stop_id": "i-224_01",
+                "stop_name": "紙屋町",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19496, 36.5614]
+            },
+            "properties": {
+                "stop_id": "i-224_02",
+                "stop_name": "紙屋町",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [138.191, 36.56107] },
+            "properties": {
+                "stop_id": "i-225_01",
+                "stop_name": "馬喰町",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.18889, 36.56093]
+            },
+            "properties": {
+                "stop_id": "i-226_01",
+                "stop_name": "象山口",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.18867, 36.56083]
+            },
+            "properties": {
+                "stop_id": "i-226_02",
+                "stop_name": "象山口",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.18294, 36.56195]
+            },
+            "properties": {
+                "stop_id": "i-227_01",
+                "stop_name": "道島",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.18339, 36.56178]
+            },
+            "properties": {
+                "stop_id": "i-227_02",
+                "stop_name": "道島",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.17631, 36.56356]
+            },
+            "properties": {
+                "stop_id": "i-228_01",
+                "stop_name": "清野",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.17625, 36.56347]
+            },
+            "properties": {
+                "stop_id": "i-228_02",
+                "stop_name": "清野",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.16378, 36.56133]
+            },
+            "properties": {
+                "stop_id": "i-229_01",
+                "stop_name": "岩野",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.16368, 36.56119]
+            },
+            "properties": {
+                "stop_id": "i-229_02",
+                "stop_name": "岩野",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.15928, 36.56009]
+            },
+            "properties": {
+                "stop_id": "i-230_01",
+                "stop_name": "岩野西",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.15525, 36.55787]
+            },
+            "properties": {
+                "stop_id": "i-231_01",
+                "stop_name": "土口水門",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.15522, 36.55773]
+            },
+            "properties": {
+                "stop_id": "i-231_02",
+                "stop_name": "土口水門",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.14683, 36.5497]
+            },
+            "properties": {
+                "stop_id": "i-232_01",
+                "stop_name": "雨宮北町",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.14706, 36.54978]
+            },
+            "properties": {
+                "stop_id": "i-232_02",
+                "stop_name": "雨宮北町",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.13869, 36.54918]
+            },
+            "properties": {
+                "stop_id": "i-233_01",
+                "stop_name": "屋代工業団地",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.15634, 36.5546]
+            },
+            "properties": {
+                "stop_id": "i-234_01",
+                "stop_name": "土口北",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.15647, 36.55487]
+            },
+            "properties": {
+                "stop_id": "i-234_02",
+                "stop_name": "土口北",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.15619, 36.55219]
+            },
+            "properties": {
+                "stop_id": "i-235_01",
+                "stop_name": "土口中",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.15628, 36.55222]
+            },
+            "properties": {
+                "stop_id": "i-235_02",
+                "stop_name": "土口中",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.15569, 36.54977]
+            },
+            "properties": {
+                "stop_id": "i-236_01",
+                "stop_name": "土口南",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.15591, 36.54997]
+            },
+            "properties": {
+                "stop_id": "i-236_02",
+                "stop_name": "土口南",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.14948, 36.5467]
+            },
+            "properties": {
+                "stop_id": "i-237_01",
+                "stop_name": "雨宮東",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.14947, 36.54655]
+            },
+            "properties": {
+                "stop_id": "i-237_02",
+                "stop_name": "雨宮東",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.14497, 36.54655]
+            },
+            "properties": {
+                "stop_id": "i-238_01",
+                "stop_name": "雨宮中",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.14474, 36.54647]
+            },
+            "properties": {
+                "stop_id": "i-238_02",
+                "stop_name": "雨宮中",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.14118, 36.54649]
+            },
+            "properties": {
+                "stop_id": "i-239_01",
+                "stop_name": "雨宮上",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.14079, 36.54639]
+            },
+            "properties": {
+                "stop_id": "i-239_02",
+                "stop_name": "雨宮上",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.13692, 36.54589]
+            },
+            "properties": {
+                "stop_id": "i-240_01",
+                "stop_name": "JAあんず店前",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.13701, 36.54585]
+            },
+            "properties": {
+                "stop_id": "i-240_02",
+                "stop_name": "JAあんず店前",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [138.133, 36.54339] },
+            "properties": {
+                "stop_id": "i-241_01",
+                "stop_name": "屋代高校前",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.13283, 36.54319]
+            },
+            "properties": {
+                "stop_id": "i-241_02",
+                "stop_name": "屋代高校前",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.12721, 36.53971]
+            },
+            "properties": {
+                "stop_id": "i-242_01",
+                "stop_name": "屋代高見町",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.1273, 36.53978]
+            },
+            "properties": {
+                "stop_id": "i-242_02",
+                "stop_name": "屋代高見町",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.12637, 36.53479]
+            },
+            "properties": {
+                "stop_id": "i-243_01",
+                "stop_name": "屋代南高校前",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.12647, 36.53479]
+            },
+            "properties": {
+                "stop_id": "i-243_02",
+                "stop_name": "屋代南高校前",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.12791, 36.53163]
+            },
+            "properties": {
+                "stop_id": "i-244_01",
+                "stop_name": "屋代駅",
+                "route_ids": ["屋代須坂線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21798, 36.66948]
+            },
+            "properties": {
+                "stop_id": "i-285_01",
+                "stop_name": "吉田",
+                "route_ids": ["三才線_A", "牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.21759, 36.66941]
+            },
+            "properties": {
+                "stop_id": "i-285_02",
+                "stop_name": "吉田",
+                "route_ids": ["三才線_A", "牟礼線_A"]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19376, 36.62786]
+            },
+            "properties": {
+                "stop_id": "i-286_01",
+                "stop_name": "水野美術館前",
+                "route_ids": ["日赤線_A"]
+            }
+        }
+    ]
+}
